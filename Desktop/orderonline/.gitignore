@@ -34,3 +34,23 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# General
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# User-specific files
+.bash_history
+.bashrc
+.profile
+.gitconfig
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Directories
+.idea/
+.vscode/
+node_modules/
